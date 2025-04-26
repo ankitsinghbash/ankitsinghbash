@@ -50,27 +50,34 @@
 
 
 
-
 ## 🏆 LeetCode Progress
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankit_Singh25/)
 
 ### 📈 Yearly Activity Heatmaps
 
-#### 2022
-![2022 Heatmap](https://leetcard.jacoblin.cool/Ankit_Singh25?year=2022&theme=dark&ext=heatmap)
-
-#### 2023
-![2023 Heatmap](https://leetcard.jacoblin.cool/Ankit_Singh25?year=2023&theme=dark&ext=heatmap)
-
-#### 2024
-![2024 Heatmap](https://leetcard.jacoblin.cool/Ankit_Singh25?year=2024&theme=dark&ext=heatmap)
-
-#### 2025
-![2025 Heatmap](https://leetcard.jacoblin.cool/Ankit_Singh25?year=2025&theme=dark&ext=heatmap)
+<table>
+  <tr>
+    <td align="center">2022</td>
+    <td align="center">2023</td>
+  </tr>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/Ankit_Singh25?year=2022&theme=dark&ext=heatmap" width="400"></td>
+    <td><img src="https://leetcard.jacoblin.cool/Ankit_Singh25?year=2023&theme=dark&ext=heatmap" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">2024</td>
+    <td align="center">2025</td>
+  </tr>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/Ankit_Singh25?year=2024&theme=dark&ext=heatmap" width="400"></td>
+    <td><img src="https://leetcard.jacoblin.cool/Ankit_Singh25?year=2025&theme=dark&ext=heatmap" width="400"></td>
+  </tr>
+</table>
 
 ### 📊 Current Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_Singh25?theme=dark&font=Roboto)](https://leetcode.com/u/Ankit_Singh25/)
+
 
 ✅ Total Solved: [Total Problems]
 🎯 Easy: [E] | Medium: [M] | Hard: [H]
