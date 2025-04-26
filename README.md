@@ -33,17 +33,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghbash&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghbash&theme=radical" alt="GitHub streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghbash&layout=compact&theme=radical" />
-</p>
 
----
 
 
 
@@ -80,14 +71,27 @@
 
 
 ✅ Total Solved: [Total Problems]
-🎯 Easy: [E] | Medium: [M] | Hard: [H]
-🔥 Current Streak: [Days] days
-🏆 Contest Rating: [Rating] (Top [X]%)
+🎯 Easy: [301] | Medium: [571] | Hard: [135]
+🔥 Max Current Streak: [730] days
+
+
+
+
+
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghbash&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghbash&theme=radical" alt="GitHub streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghbash&layout=compact&theme=radical" />
+</p>
 
+---
 
 
 
