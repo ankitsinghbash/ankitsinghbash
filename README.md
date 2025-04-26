@@ -45,6 +45,28 @@
 
 ---
 
+
+
+
+
+## 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nietlab123?theme=dark&font=Roboto)](https://leetcode.com/u/Ankit_Singh25/)
+
+📊 Problem Solving Stats:
+✔️ Total Solved: [Your Current Count]
+🎯 Easy: [301] | Medium: [571] | Hard: [138]
+🔥 Current Streak: [730] days
+
+
+
+---
+
+
+
+
+
+
 ### 🚀 Fun Projects
 
 | Project Name | Description |
