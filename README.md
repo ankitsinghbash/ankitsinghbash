@@ -12,7 +12,7 @@
 ### 🧠 About Me
 - 🧑‍💼 Official **Frontend Developer** at **Stefto Management Service (IMS Pvt Ltd)**  
 - 🛠️ Handling **Frontend + Backend + Scaling + DevOps**  
-- 🌐 Managing [`Creditklick.com`](https://creditklick.com)  
+- 🌐 Build and Managing [`Creditklick.com`](https://creditklick.com)  
 - 🔁 Built **F2F Protocol** for local file transfers  
 - 📞 Created and scaled **CRM** with dialer integration from scratch  
 - 🧪 Regularly build scalable, production-grade apps  
