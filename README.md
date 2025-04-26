@@ -65,34 +65,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+beautiful+code+in+3D+space.;Engineering+scalable+systems+with+style.;Turning+visions+into+products+🚀" />
 </p>
-
----
-
-#### 💡 3D Developer Showcase
-
-```javascript
-class DeveloperIn3D {
-  constructor() {
-    this.name = "Ankit Singh";
-    this.skills = ["React", "Node.js", "Docker", "DSA"];
-    this.projects = ["Remove_bg", "Creditklick", "BigBull"];
-    this.achievements = "Solved 1000+ LeetCode problems 💡";
-  }
-
-  show() {
-    return `
-      <3D-DevCard>
-        <Avatar spin />
-        <SkillRings glow values=${this.skills} />
-        <ProjectsCarousel items=${this.projects} />
-        <LeetCodeTrophy count="1000+" />
-      </3D-DevCard>
-    `;
-  }
-}
-
-new DeveloperIn3D().show();
-
 ---
 
 ### 📫 Connect With Me
