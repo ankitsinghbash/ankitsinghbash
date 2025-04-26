@@ -56,16 +56,6 @@
 
 ---
 
-### 🖼️ 3D Interactive Flair (Feel the Vibes)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ankitsinghbash/assets/main/3d-logo.gif" width="300" alt="3D Developer Animation" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+beautiful+code+in+3D+space.;Engineering+scalable+systems+with+style.;Turning+visions+into+products+🚀" />
-</p>
----
 
 ### 📫 Connect With Me
 
