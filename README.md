@@ -15,7 +15,7 @@
 - 📞 Created and scaled **CRM** with dialer integration from scratch  
 - 🧪 Regularly build scalable, production-grade apps  
 - 🧩 Solved **1000+ DSA problems** on Leetcode  
-  - [🔗 LeetCode Profile](https://leetcode.com/YOUR_USERNAME_HERE)
+  - [🔗 LeetCode Profile](https://leetcode.com/Ankit_Singh25)
 
 ---
 
