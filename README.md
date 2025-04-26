@@ -72,7 +72,6 @@
 ### 📊 Current Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_Singh25?theme=dark&font=Roboto)](https://leetcode.com/u/Ankit_Singh25/)
 
-```text
 ✅ Total Solved: [Total Problems]
 🎯 Easy: [E] | Medium: [M] | Hard: [H]
 🔥 Current Streak: [Days] days
