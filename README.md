@@ -13,7 +13,7 @@
 
 ## 🔥 About Me
 
-javascript
+```javascript
 const ankit = {
   position: "Full Stack Developer",
   company: "Stefto Management Service (IMS Pvt Ltd)",
@@ -125,4 +125,4 @@ Visitor Count
 <img src="https://raw.githubusercontent.com/ankitsinghbash/ankitsinghbash/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
 ⭐️ Star my repositories if you find my work interesting!
 
-</div> 
+</div> ```
