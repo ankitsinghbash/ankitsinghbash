@@ -51,7 +51,7 @@
 
 ## 🧠 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_Singh25?theme=dark&font=Roboto)](https://leetcode.com/u/Ankit_Singh25/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_Singh25?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/Ankit_Singh25/)
 
 📊 Problem Solving Stats:
 ✔️ Total Solved: [Your Current Count]
