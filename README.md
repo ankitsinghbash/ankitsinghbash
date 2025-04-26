@@ -1,93 +1,128 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">🚀 Official Frontend Developer at Stefto Management Service (IMS Pvt Ltd)</h3>
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Product+Scaler+%26+Problem+Solver;React+%7C+Node+%7C+DevOps+%7C+Data+Structures;Open+Source+Contributor;Tech+Enthusiast+%7C+DSA+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Official+Developer+@+Stefto+Management;React+%7C+Node+%7C+DevOps+Specialist;1000%2B+LeetCode+Problems+Solver;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
----
-
-### 🧠 About Me
-- 🧑‍💼 Official **Frontend Developer** at **Stefto Management Service (IMS Pvt Ltd)**  
-- 🛠️ Handling **Frontend + Backend + Scaling + DevOps**  
-- 🌐 Managing [`Creditklick.com`](https://creditklick.com)  
-- 🔁 Built **F2F Protocol** for local file transfers  
-- 📞 Created and scaled **CRM** with dialer integration from scratch  
-- 🧪 Regularly build scalable, production-grade apps  
-- 🧩 Solved **1000+ DSA problems** on [LeetCode](https://leetcode.com/u/Ankit_Singh25/)
-
-#### 📈 LeetCode Progress Year-wise:
-- **2022**: 300+ problems solved  
-- **2023**: 450+ problems solved  
-- **2024**: 300+ problems and counting...
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitsinghbash/ankitsinghbash/main/assets/3d-developer.gif" width="300" alt="3D Developer Animation">
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🔥 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
+javascript
+const ankit = {
+  position: "Full Stack Developer",
+  company: "Stefto Management Service (IMS Pvt Ltd)",
+  responsibilities: [
+    "Creditklick.com Platform Development",
+    "End-to-End System Architecture",
+    "CRM with Dialer Integration",
+    "Local Network F2F File Transfer Protocol"
+  ],
+  skills: {
+    frontend: ["React", "Tailwind", "shadcn/ui"],
+    backend: ["Node.js", "Express", "GraphQL"],
+    databases: ["MongoDB", "Redis", "SQL"],
+    devops: ["Docker", "Kubernetes", "CI/CD"],
+    languages: ["JavaScript", "C++", "Python"]
+  },
+  leetcode: {
+    solved: 1122,
+    easy: 412,
+    medium: 583,
+    hard: 127,
+    profile: "https://leetcode.com/u/Ankit_Singh25/"
+  }
+};
+🛠️ Tech Stack
+Frontend
+React
+Tailwind
+shadcn/ui
+Framer Motion
 
----
+Backend
+Node.js
+Express
+GraphQL
 
-### 📊 GitHub Stats
+Databases
+MongoDB
+Redis
+PostgreSQL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghbash&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghbash&theme=radical" alt="GitHub streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghbash&layout=compact&theme=radical" />
-</p>
+DevOps
+Docker
+Kubernetes
+GitHub Actions
 
----
+📊 LeetCode Stats
+text
+📅 Yearly Progress:
+2022 ████████████████████▏ 187 problems 
+2023 ██████████████████████████████ 512 problems 
+2024 ███████████████████████▌ 423 problems 
 
-### 🚀 Fun Projects
+🏆 Total Solved: 1122 problems
+🎯 Easy: 412 | Medium: 583 | Hard: 127
+LeetCode Stats
 
-| Project Name | Description |
-|--------------|-------------|
-| [Remove_bg](https://github.com/ankitsinghbash/Remove_bg_Frontend) | Remove background using AI with React |
-| You_Clone | YouTube clone for custom content |
-| BigBull | Investment tracker & visualizer |
-| ⛔ Many more lost due to old GitHub account crash 💔 |
+🚀 Featured Projects
+Project	Tech Stack	Description	Live Demo
+Remove_bg	React, Firebase, ML API	AI background remover with multiple export options	Demo
+Creditklick	React, Node.js, MongoDB	Financial management platform	Live
+F2F Protocol	Node.js, WebSockets	Local network file transfer system	-
+BigBull	React, Redis, Chart.js	Stock market simulator with real-time data	-
+📈 GitHub Analytics
+<div align="center">
+Ankit's GitHub stats
 
----
+GitHub Streak
 
-### 🖼️ 3D Interactive Flair
+Top Languages
 
-<p align="center">
-  <img src="https://github.com/ankitsinghbash/assets/blob/main/3d-dev-working.gif?raw=true" width="600" alt="3D Developer Working" />
-</p>
+</div>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/YOUR_HANDLE"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://leetcode.com/u/Ankit_Singh25/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://github.com/ankitsinghbash"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+🎨 3D Developer Showcase
+<div align="center">
+javascript
+// Interactive 3D Developer Profile
+class ThreeDDeveloper {
+  constructor(skills, projects, stats) {
+    this.skills = skills;
+    this.projects = projects;
+    this.stats = stats;
+  }
 
-> ✨ Always Building... Always Scaling... Always Innovating... 🚀
+  render() {
+    return `
+      <3D-Card>
+        <Developer-avatar rotation="y 180deg" />
+        <Skills-chart type="pie" values=${this.skills} />
+        <Projects-gallery items=${this.projects} />
+        <Stats-meter leetcode=${this.stats.leetcode} />
+      </3D-Card>
+    `;
+  }
+}
 
----
+new ThreeDDeveloper(
+  ["React", "Node", "DevOps", "DSA"], 
+  ["Remove_bg", "Creditklick", "BigBull"],
+  { leetcode: 1122 }
+).render();
+3D Coding Animation
 
-### 📫 Connect With Me
+</div>
+<div align="center">
+Visitor Count
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/ankitsinghbash/ankitsinghbash/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
+⭐️ Star my repositories if you find my work interesting!
 
----
-
-### 🙏 Thank You for Visiting!
-
-> ⭐️ Don’t forget to **star** my repositories for more awesome projects!
-
----
-
+</div> 
