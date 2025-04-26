@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">🚀 Official Frontend Developer at Stefto Management Service (IMS Pvt Ltd)</h3>
 
+<p align="center"><strong>📦 Many more lost due to old GitHub account crash 💔</strong></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Product+Scaler+%26+Problem+Solver;React+%7C+Node+%7C+DevOps+%7C+Data+Structures;Open+Source+Contributor" alt="Typing SVG" />
 </p>
